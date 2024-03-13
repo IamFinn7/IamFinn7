@@ -1,7 +1,7 @@
 # Hi there, I'm Phuong Nhi, also known as Finn 👋
 
 ### About me:
-I am a student majoring in Software Engineering at FPT University. I love learning new things and I'm always curious about new things. In the future, I want to improve my skills and become a Fullstack Developer. Focusing on React (future), I also know a little about C# and Java.
+I am a student majoring in Software Engineering at FPT University. I love learning new things and I'm always curious about new things. In the future, I want to improve my skills and become a Fullstack Developer. Focusing on React (in the future), I also have some knowledge of C# and Java.
 
 
 <p>
