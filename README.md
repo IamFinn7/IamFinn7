@@ -1,17 +1,11 @@
-# Hi there, I'm Phuong Nhi, also known as Finn 👋
+# Hi, I’m Finn 👋
 
-### About me:
-I am a student majoring in Software Engineering at FPT University. I love learning new things and I'm always curious about new things. In the future, I want to improve my skills and become a Fullstack Developer.
-
-
-<p>
-  📣 Find me here :<br/>
-  <a href="https://www.facebook.com/profile.php?id=100012688778980" target="_blank"><img src="https://img.shields.io/badge/facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</p>
+☕ Salted coffee in one hand, keyboard in the other.
+Just vibin’ through bugs and building my way to Fullstack Dev.
 
 ### My projects 👨‍💻
 
-- **[RoomMart](https://github.com/dwxcod62/RoomMart)**: A web application for Rental and Tenant Support. This project is built with **HTML**, **Css**, **JavaScript** and **Java**. I complete everything related to the **Renter** role
+- **[InkWake](https://github.com/Mfour04/INW_FinalProject)**: A platform for reading and publishing novels with features like comments, analytics, payments, and more. Built with **ASP.NET Core**, **MongoDB**, and **ReactJS**.
 
 
 ### My skills 🧑‍💻
